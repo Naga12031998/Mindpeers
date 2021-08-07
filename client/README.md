@@ -69,10 +69,8 @@ I don't own the content such as icons and images on this web app, this was purel
 
 ### Screenshots
 
-![1](https://user-images.githubusercontent.com/51481112/128302007-f1c7d957-6b1d-4cf9-aa64-a0b16e482c9d.jpg)
-![2](https://user-images.githubusercontent.com/51481112/128302024-c902b035-b30a-4944-8397-f7ea560a26da.jpg)
-![3](https://user-images.githubusercontent.com/51481112/128302031-b2cb12b7-9625-428f-905f-3e342d33da5b.jpg)
-![4](https://user-images.githubusercontent.com/51481112/128302046-534464eb-e9f7-4659-8cb8-38b6295447a1.jpg)
+![1](https://user-images.githubusercontent.com/51481112/128596519-c32c46fe-8088-42f0-9649-e63ad4b72a20.jpg)
+![2](https://user-images.githubusercontent.com/51481112/128596524-59242a84-12fa-4ea6-a80a-f5c8f8978b2d.jpg)
 
 
 
