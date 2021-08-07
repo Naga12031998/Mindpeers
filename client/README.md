@@ -2,7 +2,7 @@
 
 An assignment from mindpeers. allows a visitor to search photos.
 
- [Live Demo](https://happy-bhabha-07c78d.netlify.app/)
+ [Live Demo](https://keen-payne-0173e4.netlify.app/)
 
 ## Usage
 
