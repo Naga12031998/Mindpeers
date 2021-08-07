@@ -47,6 +47,7 @@ const SuggestionBox = styled.div<SuggestionBoxProps>`
   //highlighting the hovered 
   & :nth-child(${(props: SuggestionBoxProps) => props.active}) {
     background-color: gray;
+    transition: all 500ms ease;
     color: white;
     font-weight: bold;
   }

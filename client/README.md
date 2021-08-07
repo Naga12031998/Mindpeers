@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+# Mind Peers Assignment 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An assignment from mindperrs. allows a visitor search photos.
 
-## Available Scripts
+ [Live Demo](https://happy-bhabha-07c78d.netlify.app/)
 
-In the project directory, you can run:
+## Usage
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ Clone this repository to your local system.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+git clone [repo link]
+```
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Install the dependencies using the following command.
 
-### `yarn build`
+```
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ Run the app using the following command.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Home Page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- User can sinitially see some huge photo collections
+- They can able to search the photos of their choices
+- When the users comes later they can see the list of suggestion when they start typing
+- When clicking upon the any images, the images is zoomed up in the modal
+- User can see loading indicator when the API call is in progress
+### Credits
 
-## Learn More
+I don't own the content such as icons and images on this web app, this was purely developed with an intent of learning and fun.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Icons - Flaticons
+- References - [MDN](https://developer.mozilla.org/en-US/) | [w3schools](https://www.w3schools.com/) | [Bootstrap](https://getbootstrap.com/) | [Spinkit](https://tobiasahlin.com/spinkit/) | [Styled-Component](https://styled-components.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+
+### Libraries
+
+- React
+- Axios
+- Bootstrap
+- Styled Components
+- React-Modal
+
+
+
+### Screenshots
+
+![1](https://user-images.githubusercontent.com/51481112/128302007-f1c7d957-6b1d-4cf9-aa64-a0b16e482c9d.jpg)
+![2](https://user-images.githubusercontent.com/51481112/128302024-c902b035-b30a-4944-8397-f7ea560a26da.jpg)
+![3](https://user-images.githubusercontent.com/51481112/128302031-b2cb12b7-9625-428f-905f-3e342d33da5b.jpg)
+![4](https://user-images.githubusercontent.com/51481112/128302046-534464eb-e9f7-4659-8cb8-38b6295447a1.jpg)
+
+
+
+
+### Contributors
+
+ [Naga Sowmya Narayanan](https://naga12031998.github.io/)
