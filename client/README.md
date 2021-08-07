@@ -1,6 +1,6 @@
 # Mind Peers Assignment 
 
-An assignment from mindperrs. allows a visitor search photos.
+An assignment from mindpeers. allows a visitor to search photos.
 
  [Live Demo](https://happy-bhabha-07c78d.netlify.app/)
 
@@ -33,16 +33,18 @@ npm start
 
 #### Home Page
 
-- User can sinitially see some huge photo collections
-- They can able to search the photos of their choices
-- When the users comes later they can see the list of suggestion when they start typing
-- When clicking upon the any images, the images is zoomed up in the modal
-- User can see loading indicator when the API call is in progress
+- User can initially see some photo collections.
+- They can able to search the photos of their choice.
+- When the user comes later they can see the list of suggestion history when they start typing.
+- When clicking upon any images, the images are zoomed up in the modal.
+- User can see loading indicator when the API call is in progress.
+
 ### Credits
 
 I don't own the content such as icons and images on this web app, this was purely developed with an intent of learning and fun.
 
 - Icons - Flaticons
+- Images - Flickr
 - References - [MDN](https://developer.mozilla.org/en-US/) | [w3schools](https://www.w3schools.com/) | [Bootstrap](https://getbootstrap.com/) | [Spinkit](https://tobiasahlin.com/spinkit/) | [Styled-Component](https://styled-components.com/)
 
 
